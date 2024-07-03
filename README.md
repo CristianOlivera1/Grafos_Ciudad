@@ -4,7 +4,7 @@ El programa utiliza grafos para representar lugares importantes de una ciudad y 
 El proyecto puede ejecutarse tanto en `Google Colab` como en `VS Code`.
 
 ## Instalación
-Crea un proyecto con la extencion .ipynb
+
 ### Visual Studio Code
 1. Descarga el proyecto y abrelo 
 2. Abre la terminal (`View` > `Terminal` o `Ctrl + `).
