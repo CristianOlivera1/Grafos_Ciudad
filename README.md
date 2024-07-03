@@ -10,7 +10,7 @@ El proyecto puede ejecutarse tanto en `Google Colab` como en `VS Code`.
 2. Abre la terminal (`View` > `Terminal` o `Ctrl + `).
 3. Ejecuta los siguientes comandos para instalar `networkx`, `folium` y `geopy`:
 -- Se utiliza `networkx` para crear el grafo y `folium` para visualizarlo en un mapa interactivo. 
-```sh
+```python
 pip install networkx folium geopy
 ```
 ### Google Colab
