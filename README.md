@@ -17,5 +17,7 @@ pip install networkx folium geopy
 1.Habre el siguiente link de google colab click [Aqui](https://colab.research.google.com/)
 ...Abre el archivo descargado y Deberia de ejecutarse sin problemas
 ## 🖼️ Video 
+https://github.com/CristianOlivera1/Grafos_Ciudad/assets/171596250/4b1902da-f6c5-42ce-a926-30b660247d3c.mp4
 
-![Grafo en acción](resources/video.gif)
+
+
