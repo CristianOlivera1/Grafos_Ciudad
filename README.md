@@ -14,7 +14,7 @@ El proyecto puede ejecutarse tanto en `Google Colab` como en `VS Code`.
 pip install networkx folium geopy
 ```
 ### Google Colab
-1.Habre el siguiente link de google colab click <a href="https://colab.research.google.com/" target="__blank">Aquí</a>
+1.Habre el siguiente link de google colab click [Aqui](https://colab.research.google.com/)  
 ...Abre el archivo descargado y Deberia de ejecutarse sin problemas
 ## 🖼️ Video 
 https://github.com/CristianOlivera1/Grafos_Ciudad/assets/171596250/4b1902da-f6c5-42ce-a926-30b660247d3c.mp4
